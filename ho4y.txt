@@ -1,0 +1,63 @@
+!ho4y chlenomer
+!ho4y pisun
+!ho4y [Napishi seryoge v lichku vk, on dast te moderku na bota]
+!ho4y izmeritel' baltiki
+!ho4y nado chtobyi bot na frazu idi na huj otvechal sam idi
+!ho4y hacha
+!ho4y ogranichenie na igru + bol'she slov v igre
+!ho4y 8k mmr
+!ho4y mat' modera
+!ho4y chachis zaebal kikni ego s chata
+!ho4y telky
+!ho4y ne hochu bota v etom chati,govnische(poka on ne budet populyarizirovat' Chmochusa)
+!ho4y moderku botu
+Добавить в cmd !youtube !baltika_metr
+!ho4y chtob vsegda stoyal i ne padal
+!ho4y permanentnyij pisyun v 0 km
+!ho4y chtobyi gnida nakonets umerla
+!ho4y Konchy
+!ho4y command mmr_set for sergey
+!ho4y chtobyi bota kiknulo iz chata,ibo vse uznayut svoj razmer eldyi,a esche pogodu,ochen' informativno
+!ho4y poshyol nahuj otsyuda eblan. tyi tol'ko spamish'
+!ho4y telku
+!ho4y patrik
+!ho4y vrot
+!ho4y Chtobyi bot normal'no reagiroval na "Poka" ne reagiruya, esli eto chast' drugogo slova CoolStoryBob (Pokazalos', poka chto i td)
+!ho4y kakoj eto rejt bot idi nahuj
+:moobot!moobot@moobot.tmi.twitch.tv PRIVMSG #serejaperviy :No excessive use of caps allowed (thedukentre)
+!ho4y kakoj eto rejt bot idi nahuj suka
+!ho4y Seryozhu
+!ho4y chtobyi bot blyat' normal'no otvetyi zaschityival. DeepFusion: baltika Greed_1s_Good: baltika U nas est' pobeditel'! Eto - @Greed_1s_Good
+надо сделать задержку на выполнение для каждой команды, как в муботе сделано. когда кулдаун команды не прошел, он просто пишет в личку ответ, а не в чат.
+!ho4y komandu suitsid. (tajmaut samogo sebya na 1 sekundu)
+!ho4y chto byi tyi pisal po komande,a ne spamil v chat
+!ho4y 9k mmr
+!ho4y seregu na VK
+!ho4y bolbiiioy huy kak y serejki
+разные смайлики на ролл типо меньше рофл больше круто!ho4y zamuti chtobyi on ne povtoryal odni i te zhe shutki tak chasto. interval kakoj-to byil mezhdu nimi
+!ho4y daj pisku ebat
+!ho4y chtobyi dobavili roflyi pro ukrainu na komandu !ukraina
+!ho4y sexa
+!ho4y trahnut' bota
+!ho4y serejy
+!ho4y
+!ho4y uberi pogodu, spamit
+!ho4y mamu sera Geya
+!ho4y artyi 2d tyanok TehePelo TehePelo TehePelo
+!ho4y baksik
+!ho4y iq_metr
+!ho4y Slava Ukraine - Geroyam Slava!
+!ho4y vebku na bibku strimera KappaPride
+!ho4y perdu
+!ho4y dobavit' komandu muzyika , kotoraya na strime
+!ho4y dobavit' tekuschij vinstrik
+!ho4y perezaryadku na shutki
+!ho4y bol'she shutok
+!ho4y bez shutok
+!ho4y hochu minus blevotnyie shutochki, koih navernoe 100%
+!ho4y mozhno voteban sdelat')
+!ho4y ban tol'ko esli est' 3 golosa
+!ho4y klitormetr
+!ho4y seks s muzhchinoj
+!ho4y chtobyi strimer ne nayobyival pro "igryi po 12-24 minut"
+!ho4y chtobyi strimer perestal nyit'
